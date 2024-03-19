@@ -3,6 +3,7 @@ Short Julia example codes to help ICLers, especially those familiar with Python,
 The first examples put an emphasis on animated plots, but hopefully, the repo will grow with time.
 
 Simple/
+
     addition_practice.jl
       - Loops, Types, Timestamps, and Asynchronous Execution (tasks).
 
@@ -16,6 +17,7 @@ Simple/
       - Function Broadcasting, Inset Axis, Interactive Plotting, Event Listeners.
 
 DataFrames/
+
     dataframe.jl
       - DataFrames, Vectors
 
