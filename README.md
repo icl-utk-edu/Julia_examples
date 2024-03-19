@@ -4,23 +4,23 @@ The first examples put an emphasis on animated plots, but hopefully, the repo wi
 
 
 
-Simple/addition_practice.jl
+Simple/addition_practice.jl  
     - Loops, Types, Timestamps, and Asynchronous Execution (tasks).
 
-Simple/plotting_w_observables.jl
+Simple/plotting_w_observables.jl  
     - Array Comprehension, Observables, Interactive Plotting.
 
-Simple/animation_w_observables.jl
+Simple/animation_w_observables.jl  
     - Array Comprehension, Observables, Plotting Animation, Exporing Video.
 
-Simple/inset_axis_interactive.jl
+Simple/inset_axis_interactive.jl  
     - Function Broadcasting, Inset Axis, Interactive Plotting, Event Listeners.
 
-DataFrames/dataframe.jl
+DataFrames/dataframe.jl  
     - DataFrames, Vectors
 
-DataFrames/dataframe_from_dictionaries.jl
+DataFrames/dataframe_from_dictionaries.jl  
     - DataFrames, Dictionaries, Appending into a DataFrame
 
-DataFrames/fit_data.jl
+DataFrames/fit_data.jl  
     - DataFrames, Vectors, Linear Models for Data Fitting.
