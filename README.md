@@ -4,7 +4,7 @@ Short Julia example codes to help ICLers, especially those familiar with Python,
 
 
 - Plots_and_Animations/addition_practice.jl  
-    - Loops, Types, Timestamps, and Asynchronous Execution (tasks).
+    - Loops, Types, Timestamps, Asynchronous Execution (tasks).
 
 - Plots_and_Animations/plotting_w_observables.jl  
     - Array Comprehension, Observables, Interactive Plotting.
@@ -14,6 +14,9 @@ Short Julia example codes to help ICLers, especially those familiar with Python,
 
 - Plots_and_Animations/peppered_moths_animation.jl
     - Vectors, Observables, Random, Plotting Animation.
+
+- Plots_and_Animations/peppered_moths_animation_color.jl
+    - Vectors, Observables, Random, Plotting Animation, Colors & Colormaps.
 
 - Plots_and_Animations/inset_axis_interactive.jl  
     - Function Broadcasting, Inset Axis, Interactive Plotting, Event Listeners.
